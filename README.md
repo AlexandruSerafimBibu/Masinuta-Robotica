@@ -31,5 +31,7 @@ Downsides:
     
 Technical details
 
-  I used 1 Arduino Uno board, small breadboard, 2*(DC motor + tire), HC-05 Bluetooth module, L293D motor driver, Logic Converter 5V<->3.3V, couple of LEDs, resistors and bounch of wires.
+  I used 1 Arduino Uno board, 2 * 9V battery, Extension Board for breadboard,  small breadboard, 2 * (DC motor + tire), HC-05 Bluetooth module, L293D motor driver, Logic Converter 5V<->3.3V, couple of LEDs, resistors and bounch of wires.
+
+Link for application: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en
 
