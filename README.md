@@ -33,9 +33,12 @@
 
   I used 1 Arduino Uno board, 2 * 9V battery, Extension Board for breadboard,  small breadboard, 2 * (DC motor + tire), HC-05 Bluetooth module, L293D motor driver, Logic Converter 5V<->3.3V, couple of LEDs, resistors and bounch of wires.
 
-## Special thanks to the people who organised this course and lab collegues!
+## Special thanks to the people who organised this course and lab colleagues!
 
-### !!! Video with the car comming soon.
+## For videos and photos:
+    *https://youtu.be/RX9mcECSF88
+    *https://drive.google.com/drive/folders/1KKGjIKE5WfLOoxt4rLFbZZXR0RXPox6z
+    *https://www.youtube.com/watch?v=iIFwz1cTYYE
 
 ## Bibliography:
    * Link for application: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en
