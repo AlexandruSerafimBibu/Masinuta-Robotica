@@ -36,9 +36,9 @@
 ## Special thanks to the people who organised this course and lab colleagues!
 
 ## For videos and photos:
-    https://youtu.be/RX9mcECSF88
-    https://drive.google.com/open?id=1KKGjIKE5WfLOoxt4rLFbZZXR0RXPox6z
-    https://www.youtube.com/watch?v=iIFwz1cTYYE
+   https://youtu.be/RX9mcECSF88
+   https://drive.google.com/open?id=1KKGjIKE5WfLOoxt4rLFbZZXR0RXPox6z
+   https://www.youtube.com/watch?v=iIFwz1cTYYE
 
 ## Bibliography:
    * Link for application: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en
