@@ -43,4 +43,3 @@
 ## Bibliography:
    * Link for application: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en
    * Pins for motor driver: http://www.robotplatform.com/howto/L293/img_l/L293D_connections.jpg
-   * Vlad's FB post about the Logic Converter.
